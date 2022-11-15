@@ -18,10 +18,12 @@ textarea {
 
 .time-block {
   border-radius: 15px;
+  text-align: center;
 }
 
 .row {
   border-top: 1px solid white;
+  white-space: pre-wrap;
 }
 
 .hour {
